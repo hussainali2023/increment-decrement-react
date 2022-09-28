@@ -1,0 +1,22 @@
+.count-container {
+  background-color: aquamarine;
+  margin: 10px 400px;
+  padding: 20px;
+  border-radius: 20px;
+}
+.count-container:hover {
+  background-color: aqua;
+}
+.count-container button {
+  background-color: rgb(226, 186, 111);
+  padding: 7px 15px;
+  border-radius: 5px;
+  border: none;
+  margin-left: 10px;
+  color: white;
+  font-weight: 500;
+}
+.count-container button:hover {
+  background-color: orange;
+  cursor: pointer;
+}
